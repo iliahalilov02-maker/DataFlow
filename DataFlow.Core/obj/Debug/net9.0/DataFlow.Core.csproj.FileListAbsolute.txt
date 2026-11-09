@@ -1,0 +1,12 @@
+C:\Users\Velor\DataFlow.Core\bin\Debug\net9.0\DataFlow.Core.deps.json
+C:\Users\Velor\DataFlow.Core\bin\Debug\net9.0\DataFlow.Core.dll
+C:\Users\Velor\DataFlow.Core\bin\Debug\net9.0\DataFlow.Core.pdb
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.AssemblyInfoInputs.cache
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.AssemblyInfo.cs
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.csproj.CoreCompileInputs.cache
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.sourcelink.json
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.dll
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\refint\DataFlow.Core.dll
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\DataFlow.Core.pdb
+C:\Users\Velor\DataFlow.Core\obj\Debug\net9.0\ref\DataFlow.Core.dll
